@@ -5,6 +5,5 @@ for(let farm=1;farm<=10;farm++){
     b=b+ "*";
     console.log(b);
   }
-  }
   
 }
